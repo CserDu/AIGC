@@ -24,11 +24,13 @@ This file contains a collection of resources on ***GANs***.<br>
 
 ## <span id="vg">Video Generation</span><br>
 2016, ICLR, Michael Mathieu [Deep multi-scale video prediction beyond mean square error](https://arxiv.org/pdf/1511.05440.pdf%5D)<br>
-2016, NeurIPS, Carl Vondrick [Generating videos with scene dynamics](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf)<br>
+2016, NeurIPS, Carl Vondrick, VGAN-[Generating videos with scene dynamics](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf)<br>
 2016, arXiv, E Santana [Learning a driving simulator](https://arxiv.org/pdf/1608.01230.pdf?iframe=true&width=1480&height=620)<br>
 2017, arXiv, Ruben Villegas [Decomposing motion and content for natural video sequence prediction](https://arxiv.org/pdf/1706.08033.pdf)<br>
 2017, ICCV, Xiaodan Liang [Dual motion gan for future-flow embedded video prediction](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf)<br>
 2017, ICCV, Jacob Walker [The pose knows: Video forecasting by generating pose futures](https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf)<br>
+2017, ICCV, Masaki Saito, TGAN-[Temporal generative adversarial nets with singular value clipping](https://openaccess.thecvf.com/content_ICCV_2017/papers/Saito_Temporal_Generative_Adversarial_ICCV_2017_paper.pdf)<br>
+2017, ICLR, Ruben Villegas, MCNET-[Decomposing motion and content for natural video sequence prediction](https://arxiv.org/pdf/1706.08033.pdf)<br>
 2018, arXiv, Ting-Chun Wang [Video-to-video synthesis](https://arxiv.org/pdf/1808.06601.pdf)<br>
 2018, CVPR, Sergey Tulyakov [MoCoGAN: Decomposing Motion and Content for Video Generation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf)<br>
 2018, ECCV, Aayush Bansal [Recycle-gan: Unsupervised video retargeting](https://openaccess.thecvf.com/content_ECCV_2018/papers/Aayush_Bansal_Recycle-GAN_Unsupervised_Video_ECCV_2018_paper.pdf)<br>
