@@ -1,6 +1,6 @@
-# Video generatoion awesome list
-
-## Contents
+This file contains a collection of resources on **GANs**.<br>
+# Contents
+---
 [span1](#span1)
 
 ## GANs
