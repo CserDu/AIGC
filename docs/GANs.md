@@ -32,3 +32,7 @@ This file contains a collection of resources on ***GANs***.<br>
 2018, CVPR, Sergey Tulyakov [MoCoGAN: Decomposing Motion and Content for Video Generation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf)<br>
 2018, ECCV, Aayush Bansal [Recycle-gan: Unsupervised video retargeting](https://openaccess.thecvf.com/content_ECCV_2018/papers/Aayush_Bansal_Recycle-GAN_Unsupervised_Video_ECCV_2018_paper.pdf)<br>
 2019, ICCV, [Everybody dance now](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_Everybody_Dance_Now_ICCV_2019_paper.pdf)<br>
+2019, arXiv, Yang Chen, [Mocycle-gan: Unpaired video-to-video translation](https://arxiv.org/pdf/1908.09514.pdf)<br>
+2023, Dongxu Wei [OAW-GAN: Occlusion-aware warping GAN for unified human video synthesis](https://link.springer.com/article/10.1007/s10489-022-03527-y)<br>
+
+
