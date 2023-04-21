@@ -11,9 +11,15 @@ This file contains a collection of resources on ***GANs***.<br>
 ## <span id="zoos">GAN Zoos</span><br>
 2014.1.10, arXiv, Ian J. Goodfellow [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)<br> 
 2014, arXiv, Mehdi Mirza [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf%EF%BC%88CGAN%EF%BC%89)<br>
+2015, NeurIPS, Emily Denton [Deep generative image models using a laplacian pyramid of adversarial networks](https://proceedings.neurips.cc/paper/2015/file/aa169b49b583a2b5af89203c2b78c67c-Paper.pdf)<br>
+2016, NeurIPS, Alireza Makhzani [Adversarial autoencoders](https://arxiv.org/pdf/1511.05644.pdf%5D)<br>
+2016, ICLR, Alec Radford [Unsupervised representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434.pdf%C3)<br>
+2016, arXiv, Daniel Jiwoong Im [Generating images with recurrent adversarial networks](https://arxiv.org/abs/1602.05110)<br>
 2016, NeurIPS, Xi Chen [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2016/file/7c9d0b1f96aebd7b5eca8c3edaa19ebb-Paper.pdf)<br>
-2017, ICCV, Jun-Yan Zhu [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)<br>
 2016, NeurIPS, Sebastian Nowozin [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://proceedings.neurips.cc/paper/2016/file/cedebb6e872f539bef8c3f919874e9d7-Paper.pdf)<br>
+2017, ICCV, Jun-Yan Zhu [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)<br>
+2017, arXiv, Jeff Donahue [Adversarial Feature Learning](https://arxiv.org/abs/1605.09782)<br>
+
 
 ## <span id="vg">Video Generation</span><br>
 2016, ICLR, Michael Mathieu [Deep multi-scale video prediction beyond mean square error](https://arxiv.org/pdf/1511.05440.pdf%5D)<br>
@@ -24,4 +30,5 @@ This file contains a collection of resources on ***GANs***.<br>
 2017, ICCV, Jacob Walker [The pose knows: Video forecasting by generating pose futures](https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf)<br>
 2018, arXiv, Ting-Chun Wang [Video-to-video synthesis](https://arxiv.org/pdf/1808.06601.pdf)<br>
 2018, CVPR, Sergey Tulyakov [MoCoGAN: Decomposing Motion and Content for Video Generation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf)<br>
+2018, ECCV, Aayush Bansal [Recycle-gan: Unsupervised video retargeting](https://openaccess.thecvf.com/content_ECCV_2018/papers/Aayush_Bansal_Recycle-GAN_Unsupervised_Video_ECCV_2018_paper.pdf)<br>
 2019, ICCV, [Everybody dance now](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_Everybody_Dance_Now_ICCV_2019_paper.pdf)<br>
