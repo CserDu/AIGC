@@ -9,6 +9,6 @@ This file contains a collection of resources on ***GANs***.<br>
 2020.1.20 IEEE, Jie Gui [A review on generative adversarial networks: Algorithms, theory, and applications](https://arxiv.org/pdf/2001.06937)<br>
 
 ## <span id="zoos">GAN Zoos</span><br>
-2014.1.10, arXiv [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)<br> 
+2014.1.10 arXiv, Ian J. Goodfellow [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)<br> 
 
 ## <span id="vg">Video Generation</span><br>
