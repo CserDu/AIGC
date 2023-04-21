@@ -1,4 +1,4 @@
-This file contains a collection of resources on **Video Generation with GANs**.<br>
+This file contains a collection of resources on ***GANs***.<br>
 # Contents
 * [Survey](#survey) 
 * [Video Generation](#vg)
