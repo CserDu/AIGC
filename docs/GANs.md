@@ -19,6 +19,7 @@ This file contains a collection of resources on ***GANs***.<br>
 2016, NeurIPS, Sebastian Nowozin [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://proceedings.neurips.cc/paper/2016/file/cedebb6e872f539bef8c3f919874e9d7-Paper.pdf)<br>
 2017, ICCV, Jun-Yan Zhu [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)<br>
 2017, arXiv, Jeff Donahue [Adversarial Feature Learning](https://arxiv.org/abs/1605.09782)<br>
+more variants in `[](https://github.com/hindupuravinash/the-gan-zoo)`
 
 
 ## <span id="vg">Video Generation</span><br>
