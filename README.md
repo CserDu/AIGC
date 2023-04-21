@@ -1,1 +1,1 @@
-# Awesome list
+# README
