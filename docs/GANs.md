@@ -26,6 +26,7 @@ This file contains a collection of resources on ***GANs***.<br>
 2016, ICLR, Michael Mathieu [Deep multi-scale video prediction beyond mean square error](https://arxiv.org/pdf/1511.05440.pdf%5D)<br>
 2016, NeurIPS, Carl Vondrick, VGAN-[Generating videos with scene dynamics](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf)<br>
 2016, arXiv, E Santana [Learning a driving simulator](https://arxiv.org/pdf/1608.01230.pdf?iframe=true&width=1480&height=620)<br>
+2016, arXiv, Yipin Zhou, RNN-GAN-[Learning temporal transformations from time-lapse videos](https://arxiv.org/pdf/1608.07724.pdf)<br>
 2017, arXiv, Ruben Villegas [Decomposing motion and content for natural video sequence prediction](https://arxiv.org/pdf/1706.08033.pdf)<br>
 2017, ICCV, Xiaodan Liang [Dual motion gan for future-flow embedded video prediction](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf)<br>
 2017, ICCV, Jacob Walker [The pose knows: Video forecasting by generating pose futures](https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf)<br>
@@ -34,8 +35,10 @@ This file contains a collection of resources on ***GANs***.<br>
 2018, arXiv, Ting-Chun Wang [Video-to-video synthesis](https://arxiv.org/pdf/1808.06601.pdf)<br>
 2018, CVPR, Sergey Tulyakov [MoCoGAN: Decomposing Motion and Content for Video Generation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf)<br>
 2018, ECCV, Aayush Bansal [Recycle-gan: Unsupervised video retargeting](https://openaccess.thecvf.com/content_ECCV_2018/papers/Aayush_Bansal_Recycle-GAN_Unsupervised_Video_ECCV_2018_paper.pdf)<br>
+2018, CVPR, Wei Xiong, MDGAN-[Learning to generate time-lapse videos using multi-stage dynamic generative adversarial networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xiong_Learning_to_Generate_CVPR_2018_paper.pdf)<br>
 2019, ICCV, [Everybody dance now](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_Everybody_Dance_Now_ICCV_2019_paper.pdf)<br>
 2019, arXiv, Yang Chen, [Mocycle-gan: Unpaired video-to-video translation](https://arxiv.org/pdf/1908.09514.pdf)<br>
+2021, ICLR, Yu Tian [A Good Image Generator Is What You Need for High-Resolution Video Synthesis](https://arxiv.org/pdf/2104.15069.pdf)<br>
 2023, Dongxu Wei [OAW-GAN: Occlusion-aware warping GAN for unified human video synthesis](https://link.springer.com/article/10.1007/s10489-022-03527-y)<br>
 
 
